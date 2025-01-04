@@ -9,3 +9,4 @@ This fuzzysearch technology can be used for even larger databases, as a way of s
 
 #### Demo: http://homer.stuy.edu/~ssunko60/fuzzy-search/index.html
 
+![image](https://github.com/user-attachments/assets/72f00006-8ae4-4208-8a57-2cb4a4bc9961)
